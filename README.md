@@ -4,3 +4,5 @@
 ## word list
 1. helper function
 2. pass a to b
+3. legacy
+4. deprecated
