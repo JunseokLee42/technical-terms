@@ -6,3 +6,4 @@
 2. pass a to b
 3. legacy
 4. deprecated
+5. commit message -> rename for compliance: 규정 준수를 위해 변수나 저장소 이름을 변경
