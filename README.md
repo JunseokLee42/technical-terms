@@ -1,6 +1,7 @@
 # technical-terms
 
-This repo is a collection of technical terms related to development that I encountered while studying AI and didn't know before.
+> [!NOTE}
+> This repo is a collection of technical terms related to development that I encountered while studying AI and didn't know before.
 
 ## word list
 1. helper function
