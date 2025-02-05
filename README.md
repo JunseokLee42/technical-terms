@@ -1,11 +1,22 @@
 # technical-terms
 
 > [!NOTE]
-> This repo is a collection of technical terms related to development that I encountered while studying AI and didn't know before.
+> This repo is about a series of AI technical terms that I encountered but didn't know ever before.
 
-## word list
+## Developer
 1. helper function
 2. pass a to b
 3. legacy
 4. deprecated
 5. rename for compliance # change repo or file name for compliance
+
+## Research
+1. off-the-shelf
+2. state-of-the-art(SOTA)
+3. multimodal LLM, LMM, VLM
+4. implicit knowledge
+5. pre-trained(PT), fine-tuning(FT), supervised fine-tuning(SFT), rejection fine-tuning(RFT)
+6. MDP(Markov decision process)
+7. Monte Carlo(random sampling)
+8. Markov chain
+9. long-tail or out-of distribution/learning
