@@ -21,3 +21,4 @@
 8. Markov chain
 9. long-tail or out-of distribution/learning
 10. auxiliary
+11. tailored with (customized or personalized)
