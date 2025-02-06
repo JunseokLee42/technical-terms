@@ -20,3 +20,4 @@
 7. Monte Carlo(random sampling)
 8. Markov chain
 9. long-tail or out-of distribution/learning
+10. auxiliary
