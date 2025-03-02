@@ -9,6 +9,11 @@
 3. legacy
 4. deprecated
 5. rename for compliance # change repo or file name for compliance
+6. Availability
+   - Limited access: for whom have memberships or are allowed to use
+   - Public or Easy Access:
+   - Internal
+   - High Availability: user can use without difficulties
 
 ## Research
 1. off-the-shelf
