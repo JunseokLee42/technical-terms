@@ -14,6 +14,7 @@
    - Public or Easy Access:
    - Internal
    - High Availability: user can use without difficulties
+7. design choices
 
 ## Research
 1. off-the-shelf
