@@ -15,6 +15,8 @@
    - Internal
    - High Availability: user can use without difficulties
 7. design choices
+8. build-in library(module)
+9. third-party library, external module, and library module
 
 ## Research
 1. off-the-shelf
