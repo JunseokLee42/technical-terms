@@ -17,6 +17,28 @@
 7. design choices
 8. build-in library(module)
 9. third-party library, external module, and library module
+10. commit message
+|Type|Content|
+|----|-------|
+|feat|new feature|
+|fix|bug fix|
+|build|modification on file related to build or module installation/deletion|
+|docs|modification on documentation(e.g., README)|
+|style|code style or format|
+|refactor|code refactoring in terms of readability, maintenance|
+|test|modification on test code|
+|perf|performance improvement|
+
+|유형|내용|
+|---|---|
+|feat|새로운 기능|
+|fix|버그 수정|
+|build|빌드 관련 파일이나 모듈 설치/삭제|
+|docs|문서 수정(예시: README)|
+|style|코드 스타일 혹은 형식|
+|refactor|가독성, 유지보수를 고려한 코드 리팩토링|
+|test|테스트 코드 수정|
+|perf|성능 향상|
 
 ## Research
 1. off-the-shelf
