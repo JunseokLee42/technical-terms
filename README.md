@@ -45,7 +45,7 @@
 
 11. precision(floating point)
 
-torch.float32, <ins>torch.float16</ins>, torch.bfloat16
+torch.float32, torch.float16, <ins>torch.bfloat16</ins>
 
 ## Research
 1. off-the-shelf
