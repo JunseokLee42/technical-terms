@@ -43,6 +43,10 @@
 |perf|성능 향상|
 |chore|그 외 자잘한 수정|
 
+11. precision(floating point)
+
+torch.float32, <ins>torch.float16</ins>, torch.bfloat16
+
 ## Research
 1. off-the-shelf
 2. state-of-the-art(SOTA)
