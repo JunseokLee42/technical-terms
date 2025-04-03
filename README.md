@@ -47,6 +47,8 @@
 
 torch.float32, torch.float16, <ins>torch.bfloat16</ins>
 
+12. self-contained
+
 ## Research
 1. off-the-shelf
 2. state-of-the-art(SOTA)
