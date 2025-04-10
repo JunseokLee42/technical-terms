@@ -64,3 +64,4 @@ torch.float32, torch.float16, <ins>torch.bfloat16</ins>
 12. throughput
 13. latency
 14. performance
+15. pipeline parallelism
