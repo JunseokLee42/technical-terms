@@ -65,3 +65,4 @@ torch.float32, torch.float16, <ins>torch.bfloat16</ins>
 13. latency
 14. performance
 15. pipeline parallelism
+16. oracle (this does not refer to the programming language.)
